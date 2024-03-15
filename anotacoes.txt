@@ -1,0 +1,14 @@
+Para abrir o vs code mais profissionalmente, ir até o diretório do arquivo
+precionar ctrl + shift + botão direito do mouse (power shell)
+E executar o comando:
+code .
+
+Para evitar ataques DDOS utilizar os tokens de secrets do GitHub
+
+Para verificar as configurações do git executar o comando:
+git config -l
+
+Com o git log é possível o historico do projeto
+
+Para comparar 2 versões utilizar:
+git diff código1 código2
